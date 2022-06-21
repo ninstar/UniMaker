@@ -1,47 +1,54 @@
-<img alt="Banner" src="https://i.imgur.com/PQJNn2H.png" width="100%">
+[<img src="https://i.imgur.com/MoIfhzA.png" alt="UniMaker" width="100%">][home]
+
+# Overview
 
 An easy-to-use level design tool. Featuring over twenty built-in themes and support for customized effects, graphics and songs that can be packed with your courses.
 
-[![itchio][badge-itchio]][link-itchio]
+## Downloadable Content
 
-> The root of this repository includes the source code for the current and legacy versions. Documentation can be found in the **Wiki** tab.
+Looking for some courses to get started? try these:
 
-## Credits
+- [**UniMaker 1.S Event**][event] - 90 Courses (**Recommended**).
+- [**Community Archive**][archive] - 2000+ Courses.
 
-**Developer**
-* NinStar
+Follow this quick guide on [how to apply customizations][themes] to your courses.
 
-**Code**
-* NinStar
-* Ralphed Bros.
-* Hello Fangaming
-* Gatete Gaming
+[<p align="center"><img src="https://static.itch.io/images/badge-color.svg?sanitize=true" alt="AVAILABLE ON itch.io" width="40%"></p>][download]
 
-**Sprites**  
-* Jessé Vieira
-* Kopejo
-* NinStar
-* Neweegee
-* Nicke
-* Sednaiur
-* Shikaternia
+- **Discover new courses and customizations in our [Discord][discord] ★**
+- Learn how to make your own customizations: [Guide][guide]
 
-**Songs**
-* AnIrishComposer
-* Baf
-* ClefferNotes
-* Darkrai594
-* DrumJ8
-* Juska Lampela
-* Laura Catherine
-* NinStar
-* Mayro (marionose1)
-* String Player Gamer
+# Compile
 
-## License
+> This repository includes the source code for versions ``1.0.0``, ``1.1.0``, ``1.2.3`` (Latest stable release) and ``2.0.0``.
 
-Thiis project is licensed under the ***New BSD License***.
+1. Clone the repository:
+```bash
+git clone https://github.com/ninstar/UniMaker.git
+```
+2. Download [GameMaker][gamemaker].
+	- The version depends on the type of project you want to import:
+		- Studio 1.4.9999 for .gmx projects.
+		- Studio 2.2 or later for .ypp projects.
+	> You can convert a .gmx project into a .yyp, but it would still require manual work to fix any potential incompatibility issue.
+3. Extract the **.7z** file containing the version you want to use.
+5. Open the project file (**.gmx** or **.yyp**).
+6. Import the audio files (Optional step for stable releases)
+	1. Download a compiled binary of the game.
+	3. Go to **Included Files** and Import all **.ogg** files from ``\UniMaker``  (the directory where the binary is stored).
+8. Go to **File ➜ Create Executable**.
 
-[link-itchio]:https://ninstars.itch.io/unimaker
+# Credits
 
-[badge-itchio]:https://img.shields.io/static/v1?label=Download&logo=itch.io&labelColor=2F363D&logoColor=white&message=Releases&color=FA5C5C&style=for-the-badge
+- **Creator** - NinStar
+- **Code** - Gate, Hello, NinStar, Ralphed
+- **Art** - Jessé Vieira, Kopejo, NinStar, Neweegee, Nicke, Sednaiur, Shikaternia
+
+[home]: ninstars.blogspot.com/p/unimaker.html
+[download]: https://ninstars.itch.io/unimaker
+[gamemaker]: https://gamemaker.io/
+[guide]: https://github.com/ninstar/UniMaker/wiki
+[themes]: https://ninstars.blogspot.com/2020/03/customization-guide-unimaker-1s.html 
+[event]: https://drive.google.com/file/d/1Tty6yo0xA8P1UrEhHS3WfgQPopZlTDFL/view?usp=sharing
+[archive]: https://drive.google.com/file/d/1GDWbYJEA4Ne46KfxrV9h9k0fJdnpJSQY/view?usp=sharing
+[discord]: https://discord.gg/dvVreDb
