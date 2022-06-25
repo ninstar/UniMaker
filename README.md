@@ -41,7 +41,7 @@ git clone https://github.com/ninstar/UniMaker.git
 # Credits
 
 - **Creator** - NinStar
-- **Code** - Gate, Hello, NinStar, Ralphed
+- **Code** - Gate, Hello Fangaming, NinStar, Ralphed
 - **Art** - Jessé Vieira, Kopejo, NinStar, Neweegee, Nicke, Sednaiur, Shikaternia
 
 [home]: ninstars.blogspot.com/p/unimaker.html
