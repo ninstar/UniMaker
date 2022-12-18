@@ -13,7 +13,7 @@ Looking for some courses to get started? try these:
 
 Follow this quick guide on [how to apply customizations][themes] to your courses.
 
-[<p align="center"><img src="https://static.itch.io/images/badge-color.svg?sanitize=true" alt="AVAILABLE ON itch.io" width="40%"></p>][download]
+<p align="center"><a href="https://ninstars.itch.io/unimaker"><img src="https://static.itch.io/images/badge-color.svg?sanitize=true" alt="AVAILABLE ON itch.io" width="40%"></a></p>
 
 - **Discover new courses and customizations in our [Discord][discord] ★**
 - Learn how to make your own customizations: [Guide][guide]
@@ -45,7 +45,6 @@ git clone https://github.com/ninstar/UniMaker.git
 - **Art** - Jessé Vieira, Kopejo, NinStar, Neweegee, Nicke, Sednaiur, Shikaternia
 
 [home]: ninstars.blogspot.com/p/unimaker.html
-[download]: https://ninstars.itch.io/unimaker
 [gamemaker]: https://gamemaker.io/
 [guide]: https://github.com/ninstar/UniMaker/wiki
 [themes]: https://ninstars.blogspot.com/2020/03/customization-guide-unimaker-1s.html 
