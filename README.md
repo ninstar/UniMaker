@@ -48,6 +48,6 @@ git clone https://github.com/ninstar/UniMaker.git
 [gamemaker]: https://gamemaker.io/
 [guide]: https://github.com/ninstar/UniMaker/wiki
 [themes]: https://ninstars.blogspot.com/2020/03/customization-guide-unimaker-1s.html 
-[event]: https://drive.google.com/file/d/1Tty6yo0xA8P1UrEhHS3WfgQPopZlTDFL/view?usp=sharing
-[archive]: https://drive.google.com/file/d/1GDWbYJEA4Ne46KfxrV9h9k0fJdnpJSQY/view?usp=sharing
+[event]: https://www.dropbox.com/scl/fi/v4tuzljrq6kha9ko19y36/UniMaker-1.S-Event.zip?rlkey=2w9n8kcx1sxxlcsxy987zr6m5&dl=0
+[archive]: https://www.dropbox.com/scl/fi/xz3ycssm2w16up0ajoxmy/UniMaker-Beta-Community-Archive.zip?rlkey=42rjd6axj2u4arxixnbn922b0&dl=0
 [discord]: https://discord.gg/dvVreDb
