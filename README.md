@@ -44,7 +44,7 @@ git clone https://github.com/ninstar/UniMaker.git
 - **Code** - Gate, Hello Fangaming, NinStar, Ralphed
 - **Art** - Jessé Vieira, Kopejo, NinStar, Neweegee, Nicke, Sednaiur, Shikaternia
 
-[home]: ninstars.blogspot.com/p/unimaker.html
+[home]: https://ninstars.blogspot.com/p/unimaker.html
 [gamemaker]: https://gamemaker.io/
 [guide]: https://github.com/ninstar/UniMaker/wiki
 [themes]: https://ninstars.blogspot.com/2020/03/customization-guide-unimaker-1s.html 
