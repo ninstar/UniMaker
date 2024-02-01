@@ -1,4 +1,4 @@
-[<img src="https://i.imgur.com/MoIfhzA.png" alt="UniMaker" width="100%">][home]
+[<img src="./.github/banner.svg" alt="UniMaker" width="100%">][home]
 
 # Overview
 
