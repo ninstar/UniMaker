@@ -8,7 +8,7 @@ An easy-to-use level design tool. Featuring over twenty built-in themes and supp
 
 Looking for some courses to get started? try these:
 
-- [**UniMaker 1.S Event**][event] - 90 Courses (**Recommended**).
+- [**UniMaker Contest**][event] - 90 Courses (**Recommended**).
 - [**Community Archive**][archive] - 2000+ Courses.
 
 Follow this quick guide on [how to apply customizations][themes] to your courses.
@@ -20,7 +20,7 @@ Follow this quick guide on [how to apply customizations][themes] to your courses
 
 # Compile
 
-> This repository includes the source code for versions ``1.0.0``, ``1.1.0``, ``1.2.3`` (Latest stable release) and ``2.0.0``.
+> This repository includes the source code for versions ``1.0.0``, ``1.1.0``, ``1.2.4`` (Latest stable release) and ``2.0.0``.
 
 1. Clone the repository:
 ```bash
