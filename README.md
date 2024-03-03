@@ -4,15 +4,6 @@
 
 An easy-to-use level design tool. Featuring over twenty built-in themes and support for customized effects, graphics and songs that can be packed with your courses.
 
-## Downloadable Content
-
-Looking for some courses to get started? try these:
-
-- [**UniMaker Contest**][event] - 90 Courses (**Recommended**).
-- [**Community Archive**][archive] - 2000+ Courses.
-
-Follow this quick guide on [how to apply customizations][themes] to your courses.
-
 <p align="center"><a href="https://ninstars.itch.io/unimaker"><img src="https://static.itch.io/images/badge-color.svg?sanitize=true" alt="AVAILABLE ON itch.io" width="40%"></a></p>
 
 - **Discover new courses and customizations in our [Discord][discord] ★**
@@ -47,7 +38,4 @@ git clone https://github.com/ninstar/UniMaker.git
 [home]: https://ninstars.blogspot.com/p/unimaker.html
 [gamemaker]: https://gamemaker.io/
 [guide]: https://github.com/ninstar/UniMaker/wiki
-[themes]: https://ninstars.blogspot.com/2020/03/customization-guide-unimaker-1s.html 
-[event]: https://www.dropbox.com/scl/fi/v4tuzljrq6kha9ko19y36/UniMaker-1.S-Event.zip?rlkey=2w9n8kcx1sxxlcsxy987zr6m5&dl=0
-[archive]: https://www.dropbox.com/scl/fi/xz3ycssm2w16up0ajoxmy/UniMaker-Beta-Community-Archive.zip?rlkey=42rjd6axj2u4arxixnbn922b0&dl=0
-[discord]: https://discord.gg/dvVreDb
+[discord]: https://discord.gg/wZGW8DZ
