@@ -4,9 +4,9 @@
 
 An easy-to-use level design tool. Featuring over twenty built-in themes and support for customized effects, graphics and songs that can be packed with your courses.
 
-<p align="center"><a href="https://ninstars.itch.io/unimaker"><img src="https://static.itch.io/images/badge-color.svg?sanitize=true" alt="AVAILABLE ON itch.io" width="40%"></a></p>
+<p align="center"><a href="https://ninstars.itch.io/unimaker"><img src="https://static.itch.io/images/badge-color.svg?sanitize=true" alt="Available on itch.io" width="240"></a></p>
 
-- **Discover new courses and customizations in our [Discord][discord] ★**
+- Discover new courses and customizations in our [Discord][discord]
 - Learn how to make your own customizations: [Guide][guide]
 
 # Compile
@@ -38,4 +38,4 @@ git clone https://github.com/ninstar/UniMaker.git
 [home]: https://ninstars.blogspot.com/p/unimaker.html
 [gamemaker]: https://gamemaker.io/
 [guide]: https://github.com/ninstar/UniMaker/wiki
-[discord]: https://discord.gg/wZGW8DZ
+[discord]: https://discord.com/invite/N9bMDEcrX4
