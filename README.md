@@ -1,13 +1,10 @@
-[<img src="./.github/banner.svg" alt="UniMaker" width="100%">][home]
+<img src="./.github/banner.svg" alt="UniMaker" width="100%">
 
 # Overview
 
-An easy-to-use level design tool. Featuring over twenty built-in themes and support for customized effects, graphics and songs that can be packed with your courses.
+An easy-to-use level design tool. Featuring over twenty built-in themes and support for custom effects, graphics and songs that can be packed with your courses.
 
 <p align="center"><a href="https://ninstars.itch.io/unimaker"><img src="https://static.itch.io/images/badge-color.svg?sanitize=true" alt="Available on itch.io" width="240"></a></p>
-
-- Discover new courses and customizations in our [Discord][discord]
-- Learn how to make your own customizations: [Guide][guide]
 
 # Compile
 
@@ -35,7 +32,4 @@ git clone https://github.com/ninstar/UniMaker.git
 - **Code** - Gate, Hello Fangaming, NinStar, Ralphed
 - **Art** - Jessé Vieira, Kopejo, NinStar, Neweegee, Nicke, Sednaiur, Shikaternia
 
-[home]: https://ninstars.blogspot.com/p/unimaker.html
 [gamemaker]: https://gamemaker.io/
-[guide]: https://github.com/ninstar/UniMaker/wiki
-[discord]: https://discord.com/invite/N9bMDEcrX4
